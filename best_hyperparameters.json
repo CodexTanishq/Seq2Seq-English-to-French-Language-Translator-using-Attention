@@ -1,0 +1,9 @@
+{
+    "embedding_dim": 192,
+    "hidden_dim": 384,
+    "learning_rate": 0.0005845770509965827,
+    "batch_size": 64,
+    "rnn_type": "LSTM",
+    "dropout": 0.28166034336441936,
+    "teacher_forcing_ratio": 0.6960344527207363
+}
